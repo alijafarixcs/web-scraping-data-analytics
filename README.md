@@ -49,6 +49,11 @@ HTTP (HyperText Transfer Protocol) is the backbone of data communication on the 
 - **Request/Response Model**: Client sends requests; the server responds.
 - **Methods**: GET, POST, PUT, DELETE.
 - **Status Codes**: Indicate the result of requests (e.g., 200 OK, 404 Not Found).
+- Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
 - **HTTP Headers**: Carry metadata (e.g., Content-Type).
 ---
 ## 5. Basics of HTML
